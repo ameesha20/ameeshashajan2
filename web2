@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>My Webpage</title>
+</head>
+<body bgcolor="yellow">
+
+	<h1 style="color:Blue">My Portfolio</h1>
+
+	<p>Name: Ameesha Shajan <br>D.O.B.:09/06/2000 <br>Currently: Pursuing BTech</p>
+	<img src="picture.jpeg" alt="This is me!" width="270" height="317">
+	<p>Educational Qualifications:</p>
+	<table border="1px">
+		<tr>
+            		<th>Studied</th>
+            		<td>10th</td>
+            		<td>12th</td>
+         	</tr>
+         	<tr>
+         		<th>Grade</th>
+            		<td>A</td>
+            		<td>B</td>
+         	</tr>
+         	<tr>
+         		<th>Year of Passing</th>
+            		<td>2016</td>
+            		<td>2018</td>
+         	</tr>
+	</table>
+	<p>Some of my hobbies include:</p>
+	<ul style="circle">
+		<li>Reading</li>
+		<li>Researching</li>
+		<li>Crafting</li>
+	</ul>
+	<a href="https://in.linkedin.com/in/ameesha-shajan-88611b1a1" target="_blank">My Linkedin profile</a>
+</body>
+</html>
+
